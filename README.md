@@ -1,6 +1,7 @@
 <h1> Wifi Camera </h1>
 
 Processor: <br />&ensp;&ensp; ESP32 Wifi RX/TX MCU <br /> <br />
+Operating System: <br />&ensp;&ensp; FreeRTOS <br /> <br />
 Battery: <br />&ensp;&ensp; 800mAh Lithium Battery <br />
 &ensp;&ensp; Recharged through USB Connector <br /><br />
 Camera: <br />&ensp;&ensp; OV5640 (1080p) <br /> <br />
